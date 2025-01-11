@@ -1,0 +1,12 @@
+Domain: https://www.amazon.com
+
+Domain: https://www.ebay.com
+
+Domain: https://www.walmart.com
+
+Domain: https://www.bestbuy.com
+https://www.bestbuy.com/site/help-topics/product-recalls/pcmcat114800050015.c?id=pcmcat114800050015
+https://www.bestbuy.com/site/help-topics/product-availability/pcmcat204400050030.c?id=pcmcat204400050030
+
+Domain: https://www.newegg.com
+
